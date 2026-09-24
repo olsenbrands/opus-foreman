@@ -9,7 +9,7 @@
     {
       "name": "opus-foreman",
       "description": "Turn Claude Opus into an agent orchestrator that plans coding work, routes it to the right Claude, Codex or Grok worker from a per-machine routing card, and personally verifies the result.",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "source": "./",
       "author": {
         "name": "Jordan Olsen",
