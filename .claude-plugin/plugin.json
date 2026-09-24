@@ -1,0 +1,29 @@
+{
+  "name": "opus-foreman",
+  "description": "Turn Claude Opus into an agent orchestrator that plans coding work, routes it to the right Claude, Codex or Grok worker from a per-machine routing card, and personally verifies the result.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Jordan Olsen",
+    "email": "support@dontsleeponai.com"
+  },
+  "homepage": "https://github.com/olsenbrands/opus-foreman",
+  "repository": "https://github.com/olsenbrands/opus-foreman",
+  "license": "MIT",
+  "keywords": [
+    "codex",
+    "cost-matrix",
+    "cost-optimization",
+    "delegation",
+    "gpt-6",
+    "grok",
+    "jev",
+    "model-routing",
+    "multi-agent",
+    "opus",
+    "orchestration",
+    "routing-card",
+    "subagents",
+    "verification",
+    "xai"
+  ]
+}

@@ -1,0 +1,14 @@
+.DS_Store
+*.zip
+
+# ruflo / local tooling artifacts
+.swarm/
+ruvector.db
+*.rvf
+*.rvf.lock
+
+# machine-local runtime state — never publish
+.claude-flow/
+
+# foreman run state — machine-local
+.foreman/
